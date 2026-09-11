@@ -1,0 +1,2 @@
+<span <?php echo e($attributes->merge(['class' => 'fw-bold'])); ?> aria-label="GasPOA">GasPOA</span>
+<?php /**PATH C:\xampp\htdocs\GasPOA\resources\views\components\application-logo.blade.php ENDPATH**/ ?>
